@@ -1,0 +1,11 @@
+/* ...existing code... */
+.site-header {
+    display: flex;
+    align-items: center;
+}
+.site-header img {
+    height: 48px;
+    margin-right: 12px;
+}
+
+/* ...existing code... */
